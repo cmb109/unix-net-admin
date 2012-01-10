@@ -1,0 +1,3217 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 7 0 R
+ /F4 12 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:doug@douglasstanley.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 674.7736
+ 526.5827
+ 686.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/dougstanley/unix-net-admin) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 584.7736
+ 526.5827
+ 596.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R ]
+ /Contents 53 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+7 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/dougstanley/unix-net-admin) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 293.9129
+ 354.7736
+ 498.4529
+ 366.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docutils.sourceforge.net/docs/user/rst/quickstart.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 297.7736
+ 532.5827
+ 309.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docutils.sourceforge.net/docs/user/rst/quickref.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 279.7736
+ 532.5827
+ 291.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 8 0 R
+ 9 0 R
+ 10 0 R ]
+ /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+12 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page3': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.uakron.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 246.8878
+ 312.7736
+ 346.3778
+ 324.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Annots [ 16 0 R ]
+ /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/dougstanley/unix-net-admin) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 78.69291
+ 333.7736
+ 286.0129
+ 345.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 18 0 R ]
+ /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R20': class PDFCatalog 
+20 0 obj
+% Document Root
+<< /Outlines 22 0 R
+ /PageLabels 60 0 R
+ /PageMode /UseNone
+ /Pages 52 0 R
+ /Type /Catalog >>
+endobj
+% 'R21': class PDFInfo 
+21 0 obj
+<< /Author ()
+ /CreationDate (D:20120110020745+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Unix/Linux Networking Administration) >>
+endobj
+% 'R22': class PDFOutlines 
+22 0 obj
+<< /Count 35
+ /First 23 0 R
+ /Last 35 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+23 0 obj
+<< /Count 2
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 569.0236
+ 0 ]
+ /First 24 0 R
+ /Last 25 0 R
+ /Next 26 0 R
+ /Parent 22 0 R
+ /Title (Course Description:) >>
+endobj
+% 'Outline.30.0': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 506.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 23 0 R
+ /Title (Prerequisites:) >>
+endobj
+% 'Outline.30.1': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 458.0236
+ 0 ]
+ /Parent 23 0 R
+ /Prev 24 0 R
+ /Title (Co-requisites:) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 410.0236
+ 0 ]
+ /Next 27 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
+ /Title (RATIONALE) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+27 0 obj
+<< /Count 3
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 347.0236
+ 0 ]
+ /First 28 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 22 0 R
+ /Prev 26 0 R
+ /Title (COURSE GOALS/OBJECTIVES) >>
+endobj
+% 'Outline.31.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 314.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (Core Abilities) >>
+endobj
+% 'Outline.31.1': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 116.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Competencies) >>
+endobj
+% 'Outline.31.2': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 507.0236
+ 0 ]
+ /Parent 27 0 R
+ /Prev 29 0 R
+ /Title (Course Outline:) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+31 0 obj
+<< /Count 2
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /First 32 0 R
+ /Last 33 0 R
+ /Next 34 0 R
+ /Parent 22 0 R
+ /Prev 27 0 R
+ /Title (Text:) >>
+endobj
+% 'Outline.32.0': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 390.0236
+ 0 ]
+ /Next 33 0 R
+ /Parent 31 0 R
+ /Title (Additional Materials:) >>
+endobj
+% 'Outline.32.1': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 342.0236
+ 0 ]
+ /Parent 31 0 R
+ /Prev 32 0 R
+ /Title (Additional References:) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 270.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 22 0 R
+ /Prev 31 0 R
+ /Title (Grades:) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+35 0 obj
+<< /Count 16
+ /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 298.0236
+ 0 ]
+ /First 36 0 R
+ /Last 45 0 R
+ /Parent 22 0 R
+ /Prev 34 0 R
+ /Title (STUDENT ETHICS AND OTHER POLICY INFORMATION) >>
+endobj
+% 'Outline.33.0': class OutlineEntryObject 
+36 0 obj
+<< /Count 8
+ /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 265.0236
+ 0 ]
+ /First 37 0 R
+ /Last 44 0 R
+ /Next 45 0 R
+ /Parent 35 0 R
+ /Title (University Policies) >>
+endobj
+% 'Outline.34.0': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 235.0236
+ 0 ]
+ /Next 38 0 R
+ /Parent 36 0 R
+ /Title (Academic Dishonesty) >>
+endobj
+% 'Outline.34.1': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (ADA Statement) >>
+endobj
+% 'Outline.34.2': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 282.0236
+ 0 ]
+ /Next 40 0 R
+ /Parent 36 0 R
+ /Prev 38 0 R
+ /Title (Adding Courses\204Registration) >>
+endobj
+% 'Outline.34.3': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 36 0 R
+ /Prev 39 0 R
+ /Title (Withdrawal Policy) >>
+endobj
+% 'Outline.34.4': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 600.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 36 0 R
+ /Prev 40 0 R
+ /Title (Diversity) >>
+endobj
+% 'Outline.34.5': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 351.0236
+ 0 ]
+ /Next 43 0 R
+ /Parent 36 0 R
+ /Prev 41 0 R
+ /Title (Incompletes) >>
+endobj
+% 'Outline.34.6': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 258.0236
+ 0 ]
+ /Next 44 0 R
+ /Parent 36 0 R
+ /Prev 42 0 R
+ /Title (In-Progresses) >>
+endobj
+% 'Outline.34.7': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 189.0236
+ 0 ]
+ /Parent 36 0 R
+ /Prev 43 0 R
+ /Title (University Closing Policy) >>
+endobj
+% 'Outline.33.1': class OutlineEntryObject 
+45 0 obj
+<< /Count 6
+ /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 675.0236
+ 0 ]
+ /First 46 0 R
+ /Last 51 0 R
+ /Parent 35 0 R
+ /Prev 36 0 R
+ /Title (Course Policies) >>
+endobj
+% 'Outline.35.0': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 645.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 45 0 R
+ /Title (Absences) >>
+endobj
+% 'Outline.35.1': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 564.0236
+ 0 ]
+ /Next 48 0 R
+ /Parent 45 0 R
+ /Prev 46 0 R
+ /Title (Course Concerns) >>
+endobj
+% 'Outline.35.2': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 519.0236
+ 0 ]
+ /Next 49 0 R
+ /Parent 45 0 R
+ /Prev 47 0 R
+ /Title (Deadlines) >>
+endobj
+% 'Outline.35.3': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 450.0236
+ 0 ]
+ /Next 50 0 R
+ /Parent 45 0 R
+ /Prev 48 0 R
+ /Title (Ethics) >>
+endobj
+% 'Outline.35.4': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 381.0236
+ 0 ]
+ /Next 51 0 R
+ /Parent 45 0 R
+ /Prev 49 0 R
+ /Title (Grades) >>
+endobj
+% 'Outline.35.5': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 62.69291
+ 691.0236
+ 0 ]
+ /Parent 45 0 R
+ /Prev 50 0 R
+ /Title (Misc) >>
+endobj
+% 'R52': class PDFPages 
+52 0 obj
+% page tree
+<< /Count 7
+ /Kids [ 6 0 R
+ 11 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 17 0 R
+ 19 0 R ]
+ /Type /Pages >>
+endobj
+% 'R53': class PDFStream 
+53 0 obj
+% page stream
+<< /Length 7927 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 53.25488 0 Td (Unix/Linux Networking Administration) Tj T* -53.25488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 74.48238 0 Td (Computer Information Systems 2440:388:801) Tj T* -74.48238 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 23.03937 0 Td (Instructor:) Tj T* -23.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Douglas Stanley) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.02937 0 Td (Email:) Tj T* -43.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (doug@douglasstanley.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 41.36937 0 Td (Office:) Tj T* -41.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (???) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 641.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.69937 0 Td (Office Hours:) Tj T* -9.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TBD/By Appointment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 39.14937 0 Td (Phone:) Tj T* -39.14937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (???) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 28.03937 0 Td (Location:) Tj T* -28.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Polsky M167) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 46.36937 0 Td (Time:) Tj T* -46.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (T-Th 8:10 PM \226 9:25 PM) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 28.57937 0 Td (Syllabus:) Tj T* -28.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/dougstanley/unix-net-admin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Course Description:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.697674 Tw (This course provides students with the necessary knowledge and skills to perform basic system) Tj T* 0 Tw (administration tasks on a network operating system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Prerequisites:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2440:338 System Administration I) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Co-requisites:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 389.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (RATIONALE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .604985 Tw (This course moves beyond just the basics of Linux installation and administration into a broader study of) Tj T* 0 Tw (managing various types of network servers and the security required.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (COURSE GOALS/OBJECTIVES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Core Abilities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Model lifelong-learning through application of new knowledge.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Acquire, evaluate, and synthesize necessary information.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 248.0236 cm
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Utilize common terminology.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+Q
+q
+1 0 0 1 62.69291 218.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exhibit professionalism.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+Q
+q
+1 0 0 1 62.69291 200.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use sound theory in troubleshooting.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+Q
+q
+1 0 0 1 62.69291 182.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cooperate with others.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+Q
+q
+1 0 0 1 62.69291 164.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exhibit high self-esteem through positive communication.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+Q
+q
+1 0 0 1 62.69291 146.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Accept responsibility for learning process.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 140.0236 cm
+Q
+q
+1 0 0 1 62.69291 128.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Acquire, evaluate, and synthesize necessary information) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 128.0236 cm
+Q
+q
+1 0 0 1 62.69291 98.02362 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Competencies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88.86614 cm
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 1) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R54': class PDFStream 
+54 0 obj
+% page stream
+<< /Length 10297 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.0236 cm
+Q
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TCP/IP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Network Configuration) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Linux Firewall) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Local Security) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Network Security) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DNS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FTP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apache Web Server) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SMTP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (POP and IMAP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (11.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Secure Shell) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Network File System/Network Information Service) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (13.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Samba) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (14.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LDAP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Course Outline:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See schedule on separate handout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Text:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Wale Soyinka \(2008\)) Tj /F1 10 Tf (. ) Tj /F2 10 Tf (Linux Administration: A Beginner's Guide.) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (5th ed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (New York: McGraw-Hill Osborne Media. ISBN: 978-0-07-154588-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Additional Materials:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Additional materials for the course may be found at: ) Tj 0 0 .501961 rg (https://github.com/dougstanley/unix-net-admin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Additional References:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://docutils.sourceforge.net/docs/user/rst/quickstart.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://docutils.sourceforge.net/docs/user/rst/quickref.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grades:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+1 1 1 rg
+n 0 138 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -18 re f*
+1 1 1 rg
+n 0 102 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 84 469.8898 -18 re f*
+1 1 1 rg
+n 0 66 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -30 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 138 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 238.1026 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 91.82131 0 Td (Assessment) Tj T* -91.82131 0 Td ET
+Q
+Q
+q
+1 0 0 1 256.1026 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 116.8407 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 24.24037 0 Td (Points Possible) Tj T* -24.24037 0 Td ET
+Q
+Q
+q
+1 0 0 1 384.9434 123 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 78.94641 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 13.9032 0 Td (Percentage) Tj T* -13.9032 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Midterm Exams Written 3 Exams 100 points possible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (300) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (31%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Homework Assignments 13 Assgn. 10 points possible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (130) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (13%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Exam Written 1 Exam 200 points possible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (200) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (21%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final Exam Practical 1 Exam 100 points possible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lab Assignments 12 Labs 20 points possible) Tj T* (\(*Includes Lab and Lab Report\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (240) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (25%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (**Attitude and Attendance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (*) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (*) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 120 m 469.8898 120 l S
+n 0 102 m 469.8898 102 l S
+n 0 84 m 469.8898 84 l S
+n 0 66 m 469.8898 66 l S
+n 0 48 m 469.8898 48 l S
+n 0 18 m 469.8898 18 l S
+n 250.1026 0 m 250.1026 138 l S
+n 378.9434 0 m 378.9434 138 l S
+n 0 138 m 469.8898 138 l S
+n 0 0 m 0 138 l S
+n 469.8898 0 m 469.8898 138 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 2) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R55': class PDFStream 
+55 0 obj
+% page stream
+<< /Length 8106 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Total Possible Points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.1026 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (970) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.9434 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (100%) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 250.1026 0 m 250.1026 18 l S
+n 378.9434 0 m 378.9434 18 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 574.0236 cm
+.960784 .960784 .862745 rg
+n 0 161 469.8898 -161 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 135 Tm  T* ET
+q
+1 0 0 1 16 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .89811 Tw (* See the attached rubric \(scoring guide\) for details of lab and lab reports. LAB REPORTS WILL) Tj T* 0 Tw (BE SUBMITTED VIA THE SPRINGBOARD DROPBOX BY THE DUE DATE.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 64 cm
+q
+BT 1 0 0 1 0 14 Tm .719213 Tw 12 TL /F1 10 Tf 0 0 0 rg (** Attitude and attendance points are at the discretion of the instructor. ) Tj /F2 10 Tf (EXCESSIVE ABSENCES) Tj T* 0 Tw (AND POOR ATTITUDE WILL AFFECT YOUR FINAL GRADE.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 34 cm
+q
+BT 1 0 0 1 0 14 Tm .873555 Tw 12 TL /F1 10 Tf 0 0 0 rg (*** ) Tj /F2 10 Tf (NO LATE HOMEWORK WILL BE ACCEPTED. ) Tj /F1 10 Tf (When the date for the homework quizzes on) Tj T* 0 Tw (Springboard closes it will not be re-opened.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (**** Tests ) Tj /F2 10 Tf (CANNOT ) Tj /F1 10 Tf (be made up!) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 161 m 469.8898 161 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 161 l S
+n 469.8898 0 m 469.8898 161 l S
+Q
+Q
+q
+1 0 0 1 62.69291 568.0236 cm
+Q
+q
+1 0 0 1 62.69291 550.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total points for the course will be calculated and a percentage calculated for a letter grade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 544.0236 cm
+Q
+q
+1 0 0 1 62.69291 310.0236 cm
+1 1 1 rg
+n 0 234 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 216 469.8898 -18 re f*
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -18 re f*
+1 1 1 rg
+n 0 162 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -18 re f*
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 234 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 219 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 241.0176 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 92.43878 0 Td (Letter Grade) Tj T* -92.43878 0 Td ET
+Q
+Q
+q
+1 0 0 1 259.0176 219 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 204.8722 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 76.8661 0 Td (Percentage) Tj T* -76.8661 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (100-93%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (92-90%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B+) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (89-86%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (85-83%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (82-80%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C+) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (79-76%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (75-73%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (72-70%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D+) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (69-66%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (65-63%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (62-60%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (F) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Below 60%) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 216 m 469.8898 216 l S
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 162 m 469.8898 162 l S
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 253.0176 0 m 253.0176 234 l S
+n 0 234 m 469.8898 234 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 234 l S
+n 469.8898 0 m 469.8898 234 l S
+Q
+Q
+q
+1 0 0 1 62.69291 310.0236 cm
+Q
+q
+1 0 0 1 62.69291 277.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (STUDENT ETHICS AND OTHER POLICY INFORMATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 247.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (University Policies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Academic Dishonesty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 142.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 3.053984 Tw (Students at The University of Akron are an essential part of the academic community, and enjoy) Tj T* 0 Tw 1.856136 Tw (substantial freedom within the framework of the educational objectives of the institution. The freedom) Tj T* 0 Tw .795984 Tw (necessary for learning in a community so rich in diversity and achieving success toward our educational) Tj T* 0 Tw 3.438443 Tw (objectives require high standards of academic integrity. Academic dishonesty has no place in an) Tj T* 0 Tw 1.515366 Tw (institution of advanced learning. The University community is governed by the policies and regulations) Tj T* 0 Tw (contained with the Student Code of Conduct available in the Office of Student Conduct, \(330\) 972-7021.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 100.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.62784 Tw (The University of Akron considers academic integrity as essential part of each student's personal and) Tj T* 0 Tw 1.965814 Tw (intellectual growth. Instances of academic dishonesty are addressed consistently. All members of the) Tj T* 0 Tw .652126 Tw (community contribute actively to building a strong reputation of academic excellence and integrity at The) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 3) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R56': class PDFStream 
+56 0 obj
+% page stream
+<< /Length 7965 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .714983 Tw (University of Akron. It is each student's responsibility to know what constitutes academic dishonesty and) Tj T* 0 Tw .019269 Tw (to seek clarification directly from the instructor if necessary. Examples of academic dishonesty include, but) Tj T* 0 Tw (are not limited to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.86311 Tw (Submission of an assignment as the student's original work that is entirely or partly the work of) Tj T* 0 Tw (another person.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.137251 Tw (Failure to appropriately cite references from published or unpublished works or print/non-print) Tj T* 0 Tw (materials.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .55816 Tw (Unauthorized copying of an assignment in computer programming, or the unauthorized examination) Tj T* 0 Tw (or view of the computer, specifically during examinations.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.38248 Tw (Possession and/or unauthorized use of tests, notes, books, calculators or formulas stored in) Tj T* 0 Tw (calculators not authorized by the instructor during an examination.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .813828 Tw (Providing and/or receiving information from another student other than the instructor, by any verbal) Tj T* 0 Tw (or written means.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Observing or assisting another student's work.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Violation of the procedures prescribed by the professor to protect the integrity of the examination.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cooperation with a person involved in academic misconduct.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .143307 Tw (CUTTING AND PASTING FROM THE INTERNET, INCLUDING GRAPHICS, SCREEN CAPTURES,) Tj T* 0 Tw (OR PREVIOUSLY EXISTING EXAMPLES OF ANY KIND.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .278735 Tw (Cheating of any kind will result in failure of the assignment/test and possibly the course. The student) Tj T* 0 Tw (may also be subject to The University Policy on Academic Misconduct.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .144104 Tw (A student who has been accused of academic dishonesty will be asked to meet with the course instructor.) Tj T* 0 Tw .501235 Tw (The matter can be resolved informally at the College level and/or an academic sanction can be imposed.) Tj T* 0 Tw .906098 Tw (If the student opposes the decision, he/she may appeal to the College Dean. If the matter is referred to) Tj T* 0 Tw .222485 Tw (the Office of Student Conduct, an informal meeting will occur and, if substantial evidence exists, the office) Tj T* 0 Tw 1.679985 Tw (has the authority to take formal action against the student including, but not limited to, suspension or) Tj T* 0 Tw .08436 Tw (dismissal from the University. A more detailed discussion of these procedures can be found in the Student) Tj T* 0 Tw (Code of Conduct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (ADA Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .118735 Tw (Any student who has a disability that substantially limits learning in a higher education setting may contact) Tj T* 0 Tw 2.673828 Tw (the office of Accessibility \(formerly known as Services for Students with Disabilities\) for information) Tj T* 0 Tw .415697 Tw (regarding their eligibility for reasonable accommodations. The office is located in Simmons Hall #105 and) Tj T* 0 Tw (the office telephone number is 972-7928 \(Voice\) or 972-5764 \(TDD\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Adding Courses\227Registration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .716807 Tw (A student must register for a course before the end of the fifth day of a fall or spring term or the second) Tj T* 0 Tw 1.207633 Tw (day of a summer session. Additions to the student's official schedule may be made after that date, but) Tj T* 0 Tw 1.213735 Tw (before the 15th calendar day, only with the permission of the student's adviser, instructor, and dean or) Tj T* 0 Tw .656235 Tw (dean's designate. Students who have not registered and paid by this deadline may not attend classes to) Tj T* 0 Tw (receive credit for the course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .384431 Tw (This deadline applies to all regular 15-week courses offered in the fall and spring semesters as well as to) Tj T* 0 Tw .878876 Tw (regular courses in Summer I and II. For all other courses, such as those in intersession or those, which) Tj T* 0 Tw .903984 Tw (have flexibly scheduled, courses must be added, with appropriate permission, by the date when 20% of) Tj T* 0 Tw (the course has been completed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 4) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R57': class PDFStream 
+57 0 obj
+% page stream
+<< /Length 6370 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 750.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Withdrawal Policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .614651 Tw (A student may withdrawal from a course without an advisor's or course instructor's signature through the) Tj T* 0 Tw .04936 Tw (15th day of a semester or comparable dates during summer sessions, intersession, etc. After the 15th day) Tj T* 0 Tw 1.562619 Tw (of a semester, and up to the midpoint of a semester, a student may withdraw from a course with the) Tj T* 0 Tw (signature of the student's adviser.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .659431 Tw (After the midpoint of a semester, a student may have the signature of both the course instructor and the) Tj T* 0 Tw .324985 Tw (adviser. Such authorization must be dated and processed through the office of the Registrar no later than) Tj T* 0 Tw (the last day of the 12th week of classes or comparable dates during summer session, intersession, etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .275868 Tw (An approved withdrawal after the 15th day of the term will be indicated on the University official academic) Tj T* 0 Tw .479398 Tw (record by a "WD." A student who leaves a course without going through the withdrawal procedure will be) Tj T* 0 Tw (given an "F" in the course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Diversity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .969983 Tw (Together, we maintain an intellectual culture that is accessible, disciplined, free, safe, and committed to) Tj T* 0 Tw 3.629269 Tw (excellence. By our behavior with one another we endorse a cultural of diversity, celebrating the) Tj T* 0 Tw 1.467674 Tw (uniqueness of the individual and developing our understanding and tolerance of differences in gender,) Tj T* 0 Tw 5.34498 Tw (ethnicity, age, spiritual belief, sexual orientation, and physical and mental potential. We take) Tj T* 0 Tw 1.015984 Tw (responsibilities for sustaining a caring culture, nurturing growth and fulfillment in one another and in the) Tj T* 0 Tw 1.359988 Tw (larger communities of which we are a part. We insist on a culture of civility, united in our rejections of) Tj T* 0 Tw 1.225814 Tw (violence, coercion, deceit, or terrorism. We work to increase collaboration, cooperation, and consensus) Tj T* 0 Tw (within rational dialogue characterized by mutual respect and consideration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .964692 Tw (This is a responsible culture. We expect each member of our community to carry out responsibly his or) Tj T* 0 Tw (her duties for preserving the integrity, quality, and decency of our environment and our discourse.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .85248 Tw (In order to accomplish the above-mentioned expectations and responsibilities, everyone must engage in) Tj T* 0 Tw .792651 Tw (certain specific behaviors. Inside the classroom, the students are expected to respect the sanctity of the) Tj T* 0 Tw 2.497674 Tw (teaching/learning process by expressing respect for the faculty member as the organizer and guide) Tj T* 0 Tw 1.088314 Tw (through this learning experience, as well as for fellow students. Disruptive, disrespectful, discriminatory,) Tj T* 0 Tw 3.25998 Tw (harassing, violent and/or threatening behavior is explicitly prohibited. Students are expected to be) Tj T* 0 Tw 2.954269 Tw (responsible for their own learning and, in return, can expect responsible teaching from the faculty) Tj T* 0 Tw (member.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Incompletes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .813876 Tw (Incompletes indicate that the student has done passing work but that some part of the work is, for good) Tj T* 0 Tw 2.562339 Tw (and acceptable reason, not complete at the end of the term. Failure to make up the omitted work) Tj T* 0 Tw .846457 Tw (satisfactorily by the end of the following term, not including summer sessions, converts the "I" to an "F.") Tj T* 0 Tw .996235 Tw (When the work is satisfactorily completed within the allotted time the "I" is converted to whatever grade) Tj T* 0 Tw (the student has earned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (In-Progresses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.68284 Tw (In-progresses indicate that the student has not completed the scheduled course work during the term) Tj T* 0 Tw .414431 Tw (because the nature of the course does not permit completion within a single term, such as work toward a) Tj T* 0 Tw (thesis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (University Closing Policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .117485 Tw (The president, or designee, upon the recommendation of the Director of Public Safety and Chief of Police,) Tj T* 0 Tw .490751 Tw (will determine when conditions--such as severe weather or a state of emergency--necessitate closing the) Tj T* 0 Tw (entire University or canceling classes at the main campus and/or Wayne College in Orrville.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .759318 Tw (The Director of Public Safety and Chief of Police will promptly notify other designated University officials) Tj T* 0 Tw 1.006136 Tw (and members of the Department of University Communications, who will contact area media. University) Tj T* 0 Tw 1.130814 Tw (colleges/departments are encouraged to establish a method for communicating the closing decisions to) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 5) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R58': class PDFStream 
+58 0 obj
+% page stream
+<< /Length 5778 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .423984 Tw (department personnel. Closing information will be announced as early and as simply as possible to avoid) Tj T* 0 Tw .979318 Tw (confusion. Cancellation of classes and closure announcements will be made as early as possible in the) Tj T* 0 Tw .277318 Tw (day and will clearly state the affected campus \(es\). Call 972-SNOW or 972-6238 \(TDD/Voice\) for updated) Tj T* 0 Tw (information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .576647 Tw (For information concerning cancellation of campus based classes and web-based courses \(those closing) Tj T* 0 Tw (and cancellations that only affect your particular scheduled class\), see course policies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Course Policies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Absences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .129461 Tw (There may be 5 points deducted for every absence. If it is necessary to miss class for any reason, contact) Tj T* 0 Tw .353798 Tw (the instructor prior to the class session. Tests and Labs are to be taken on time. If you are unable to take) Tj T* 0 Tw 1.031098 Tw (a test or do a Lab during the regularly scheduled class time, you must contact the instructor before the) Tj T* 0 Tw (test and have a valid excuse. There are NO make-up tests or Labs!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Course Concerns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If you have any concerns, regarding anything related to the course, please contact the instructor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Deadlines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .467485 Tw (It is your responsibility to meet all of the deadlines for every class session, assignments, and assignment) Tj T* 0 Tw .889269 Tw (task. Assignments will be given deadlines--ANY assignments not turned in on the designated due dates) Tj T* 0 Tw (and times, will be considered late and counted as a zero\(0\) for that assignment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Ethics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.201984 Tw (Students are expected to display ethical behavior at all times. Cheating, plagiarism, etc., will not be) Tj T* 0 Tw .572126 Tw (tolerated. The consequences of dishonest behavior will be commensurate with the activity to include, but) Tj T* 0 Tw (not be limited to, an 'F' for the class, dialogue with administrators, and dismissal from the college.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Grades) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .436457 Tw 12 TL /F1 10 Tf 0 0 0 rg (Student grades will be submitted to the appropriate department at the end of the semester \(due dates for) Tj T* 0 Tw .941318 Tw (grades are determined by The University of Akron\). Students can obtain their grades via the automated) Tj T* 0 Tw .569985 Tw (telephone grade inquiry line \(258-2300 as listed in the schedule of classes\), or via the Internet/Web from) Tj T* 0 Tw 1.945814 Tw (The University of Akron's Home Page \() Tj 0 0 .501961 rg (http://www.uakron.edu) Tj 0 0 0 rg (\). Grades cannot be obtained from your) Tj T* 0 Tw (instructor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 193.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .53528 Tw (Students who names do not appear on the University's official class roster by the tenth day of the) Tj T* 0 Tw 2.390751 Tw (semester will not be permitted to participate \(participate in discussions, turn in homework, or) Tj T* 0 Tw (receive credit\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 187.0236 cm
+Q
+q
+1 0 0 1 62.69291 175.0236 cm
+Q
+q
+1 0 0 1 62.69291 88.86614 cm
+.960784 .960784 .862745 rg
+n 0 86.15748 469.8898 -86.15748 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 60.15748 Tm  T* ET
+q
+1 0 0 1 16 55.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 7.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.105868 Tw (All cell phones, pagers, and other devices must be set to vibrate or turned off during class. The) Tj T* 0 Tw .443735 Tw (sound on laptop or other computers must be turned off during class. Students are expected to not) Tj T* 0 Tw 1.69561 Tw (interrupt when another person is talking and to not disrupt the class by talking to others when) Tj T* 0 Tw ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 86.15748 m 469.8898 86.15748 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 86.15748 l S
+n 469.8898 0 m 469.8898 86.15748 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 6) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R59': class PDFStream 
+59 0 obj
+% page stream
+<< /Length 5245 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 709.0236 cm
+.960784 .960784 .862745 rg
+n 0 56 469.8898 -56 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm  T* ET
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .399984 Tw (someone is presenting. Students are not to use computers, PDAs, etc. for any purpose other than) Tj T* 0 Tw (authorized class-related activities when class is in session.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 56 m 469.8898 56 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 56 l S
+n 469.8898 0 m 469.8898 56 l S
+Q
+Q
+q
+1 0 0 1 62.69291 703.0236 cm
+Q
+q
+1 0 0 1 62.69291 676.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Misc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 6.529974 Tw 12 TL /F2 10 Tf 0 0 0 rg (STUDENTS ARE REQUIRED TO FOLLOW ALL LAB, DEPARTMENTAL, COLLEGE, AND) Tj T* 0 Tw 1.034597 Tw (UNIVERSITY RULES AND REGULATIONS AND ALL LAWS. ) Tj /F1 10 Tf (It is the student's responsibility to know,) Tj T* 0 Tw (understand, and obey these rules, regulations, and laws. Some of them include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.0236 cm
+Q
+q
+1 0 0 1 62.69291 628.0236 cm
+Q
+q
+1 0 0 1 62.69291 616.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All course prerequisites must be met.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 610.0236 cm
+Q
+q
+1 0 0 1 62.69291 598.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No food or drinks in the labs.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 592.0236 cm
+Q
+q
+1 0 0 1 62.69291 580.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Only registered students may attend class \(no friends or children\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 574.0236 cm
+Q
+q
+1 0 0 1 62.69291 562.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No plagiarism.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 556.0236 cm
+Q
+q
+1 0 0 1 62.69291 532.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .037485 Tw (The University of Akron is committed to maintaining an environment free of sexual and other forms of) Tj T* 0 Tw (harassment and discrimination.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.0236 cm
+Q
+q
+1 0 0 1 62.69291 466.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.668443 Tw (Students may not alter UA computers, including lab computers, by changing the desktop, installing) Tj T* 0 Tw 1.43811 Tw (software not authorized by the instructor, deleting or shutting down software or files placed there by a) Tj T* 0 Tw .237984 Tw (representative of the University, or any other form of alteration or destruction. Unauthorized alteration of a) Tj T* 0 Tw .093984 Tw (computer may result in failure of the course, dismissal from the Cisco Networking Academy and/or referral) Tj T* 0 Tw (to student judicial review for further disciplinary action.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 412.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .766457 Tw 12 TL /F2 10 Tf 0 0 0 rg (PRINTING:) Tj /F1 10 Tf ( Printing of material unrelated to the course or printing of material that should be printed in a) Tj T* 0 Tw 1.30104 Tw (homework lab or at home is not permitted in the classroom labs.  This is true regardless of whether a) Tj T* 0 Tw .013488 Tw (class is in session or not.  This will result in confiscation of the material printed and may result in additional) Tj T* 0 Tw (disciplinary action.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.0236 cm
+Q
+q
+1 0 0 1 62.69291 317.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 8.914524 Tw 12 TL /F1 10 Tf 0 0 0 rg (This Syllabus is subject to change at the instructor's discretion. Please check) Tj T* 0 Tw 0 0 .501961 rg (https://github.com/dougstanley/unix-net-admin ) Tj 0 0 0 rg (for the most recent version.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 87.82988 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Unix/Linux Networking Administration Syllabus Spring 2012 - Page: 7) Tj T* -87.82988 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R60': class PDFPageLabels 
+60 0 obj
+% Document Root
+<< /Nums [ 0
+ 61 0 R
+ 1
+ 62 0 R
+ 2
+ 63 0 R
+ 3
+ 64 0 R
+ 4
+ 65 0 R
+ 5
+ 66 0 R
+ 6
+ 67 0 R ] >>
+endobj
+% 'R61': class PDFPageLabel 
+61 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R62': class PDFPageLabel 
+62 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R63': class PDFPageLabel 
+63 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R64': class PDFPageLabel 
+64 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R65': class PDFPageLabel 
+65 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R66': class PDFPageLabel 
+66 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R67': class PDFPageLabel 
+67 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+xref
+0 68
+0000000000 65535 f
+0000000113 00000 n
+0000000246 00000 n
+0000000411 00000 n
+0000000598 00000 n
+0000000846 00000 n
+0000001095 00000 n
+0000001404 00000 n
+0000001597 00000 n
+0000001860 00000 n
+0000002139 00000 n
+0000002403 00000 n
+0000002722 00000 n
+0000002910 00000 n
+0000003190 00000 n
+0000003470 00000 n
+0000003764 00000 n
+0000003990 00000 n
+0000004305 00000 n
+0000004555 00000 n
+0000004857 00000 n
+0000005016 00000 n
+0000005300 00000 n
+0000005426 00000 n
+0000005650 00000 n
+0000005827 00000 n
+0000006001 00000 n
+0000006185 00000 n
+0000006428 00000 n
+0000006605 00000 n
+0000006795 00000 n
+0000006971 00000 n
+0000007197 00000 n
+0000007382 00000 n
+0000007565 00000 n
+0000007748 00000 n
+0000007998 00000 n
+0000008223 00000 n
+0000008406 00000 n
+0000008598 00000 n
+0000008807 00000 n
+0000009003 00000 n
+0000009191 00000 n
+0000009381 00000 n
+0000009573 00000 n
+0000009762 00000 n
+0000009983 00000 n
+0000010155 00000 n
+0000010349 00000 n
+0000010537 00000 n
+0000010722 00000 n
+0000010907 00000 n
+0000011056 00000 n
+0000011217 00000 n
+0000019243 00000 n
+0000029640 00000 n
+0000037845 00000 n
+0000045909 00000 n
+0000052378 00000 n
+0000058255 00000 n
+0000063603 00000 n
+0000063774 00000 n
+0000063851 00000 n
+0000063928 00000 n
+0000064005 00000 n
+0000064082 00000 n
+0000064159 00000 n
+0000064236 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(Dv\326=-4@\312\032\322\342\367&\2710!) (Dv\326=-4@\312\032\322\342\367&\2710!)] 
+
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 68 >>
+startxref
+64283
+%%EOF
