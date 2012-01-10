@@ -11,9 +11,9 @@ Computer Information Systems 2440:388:801
 
 :Instructor: Douglas Stanley
 :Email: doug@douglasstanley.com
-:Office: ???
+:Office: TBD
 :Office Hours: TBD/By Appointment
-:Phone: ???
+:Phone: TBD
 :Location: Polsky M167
 :Time: T-Th 8:10 PM – 9:25 PM
 :Syllabus: https://github.com/dougstanley/unix-net-admin
@@ -37,7 +37,7 @@ Co-requisites:
 None.
 
 
-RATIONALE
+Rationale
 =========
 
 This course moves beyond just the basics of Linux installation and
@@ -45,7 +45,7 @@ administration into a broader study of managing various types of network
 servers and the security required.
 
 
-COURSE GOALS/OBJECTIVES
+Course Goals/Objectives
 =======================
 
 
@@ -102,6 +102,7 @@ Competencies
 
 14. LDAP
 
+15. Documentation Writing
 
 Course Outline:
 ---------------
@@ -154,7 +155,7 @@ Grades:
 | 12 Labs 20 points possible      |                 |            |
 | (\*Includes Lab and Lab Report) | 240             | 25%        |
 +---------------------------------+-----------------+------------+
-| \**Attitude and Attendance      | \*              | \*         |
+| \*\*Attitude and Attendance     | \*              | \*         |
 +---------------------------------+-----------------+------------+
 | **Total Possible Points**       | **970**         | **100%**   |
 +---------------------------------+-----------------+------------+
@@ -207,7 +208,7 @@ a letter grade.
 +--------------+------------+
 
 
-STUDENT ETHICS AND OTHER POLICY INFORMATION
+Student Ethics and Other Policy Information
 ===========================================
 
 University Policies
