@@ -10,13 +10,15 @@ Computer Information Systems 2440:388:801
    Unix/Linux Networking Administration Syllabus Spring 2012 - Page: ###Page###
 
 :Instructor: Douglas Stanley
-:Email: doug@douglasstanley.com
+:Email: dstanle@uakron.edu
 :Office: TBD
 :Office Hours: TBD/By Appointment
 :Phone: TBD
 :Location: Polsky M167
 :Time: T-Th 8:10 PM – 9:25 PM
 :Syllabus: https://github.com/dougstanley/unix-net-admin
+:Version: 1.1
+:Modified: 1/17/2012
 
 Course Description:
 ===================
