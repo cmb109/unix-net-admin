@@ -29,3 +29,11 @@ ifconfig -a
 
     Show ALL interfaces known on the system.
 
+ifup/ifdown
+
+route
+
+netstat
+
+iptables
+
