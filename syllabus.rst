@@ -11,14 +11,14 @@ Computer Information Systems 2440:388:801
 
 :Instructor: Douglas Stanley
 :Email: dstanle@uakron.edu
-:Office: TBD
-:Office Hours: TBD/By Appointment
+:Office: Polsky M182E
+:Office Hours: 7:00pm-8:00pm T & Th or by appointment
 :Phone: TBD
 :Location: Polsky M167
 :Time: T-Th 8:10 PM – 9:25 PM
 :Syllabus: https://github.com/dougstanley/unix-net-admin
-:Version: 1.1
-:Modified: 1/17/2012
+:Version: 1.2
+:Modified: 1/24/2012
 
 Course Description:
 ===================
