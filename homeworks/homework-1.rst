@@ -4,6 +4,7 @@ Homework 1
 
 :Author: Doug Stanley <dstanle@uakron.edu>
 :Date: 1/24/2012
+:Updated On: 1/26/2012
 :Due Date: **1/31/2012**
 
 
@@ -27,7 +28,8 @@ find. Then, for each command, write up the following:
    flags/options. Don't document *every* flag, just some common uses (hint: some
    man pages do exactly this, but don't copy/paste). Try to think of some
    situations you might actually need to use the command for, and figure out
-   an example of it.
+   an example of it. Also, please include a very brief description of what the
+   command line example is supposed to do.
 
 3. Every source you use, document it in a section with the heading
    **References**. Basically, just paste every url you use into a bulleted list

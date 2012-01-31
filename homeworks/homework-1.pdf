@@ -49,9 +49,9 @@ endobj
  0
  0 ]
  /Rect [ 82.69291
- 617.7736
+ 602.7736
  532.5827
- 629.7736 ]
+ 614.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -73,9 +73,9 @@ endobj
  0
  0 ]
  /Rect [ 424.691
- 215.7736
+ 188.7736
  517.111
- 227.7736 ]
+ 200.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -85,12 +85,12 @@ endobj
 << /Annots [ 4 0 R
  5 0 R
  7 0 R ]
- /Contents 17 0 R
+ /Contents 18 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 16 0 R
+ /Parent 17 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -101,90 +101,110 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R9': class PDFCatalog 
+% 'Page2': class PDFPage 
 9 0 obj
+% Page dictionary
+<< /Contents 19 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 17 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R10': class PDFCatalog 
+10 0 obj
 % Document Root
-<< /Outlines 11 0 R
- /PageLabels 18 0 R
+<< /Outlines 12 0 R
+ /PageLabels 20 0 R
  /PageMode /UseNone
- /Pages 16 0 R
+ /Pages 17 0 R
  /Type /Catalog >>
 endobj
-% 'R10': class PDFInfo 
-10 0 obj
+% 'R11': class PDFInfo 
+11 0 obj
 << /Author (Doug Stanley <dstanle@uakron.edu>)
- /CreationDate (D:20120124215041+05'00')
+ /CreationDate (D:20120126201544+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Homework 1) >>
 endobj
-% 'R11': class PDFOutlines 
-11 0 obj
+% 'R12': class PDFOutlines 
+12 0 obj
 << /Count 5
- /First 12 0 R
- /Last 12 0 R
+ /First 13 0 R
+ /Last 13 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-12 0 obj
+13 0 obj
 << /Count 3
  /Dest [ 8 0 R
  /XYZ
  62.69291
- 674.0236
+ 659.0236
  0 ]
- /First 13 0 R
- /Last 15 0 R
- /Parent 11 0 R
+ /First 14 0 R
+ /Last 16 0 R
+ /Parent 12 0 R
  /Title (Assignment) >>
 endobj
 % 'Outline.5.0': class OutlineEntryObject 
-13 0 obj
-<< /Dest [ 8 0 R
- /XYZ
- 62.69291
- 377.0236
- 0 ]
- /Next 14 0 R
- /Parent 12 0 R
- /Title (What to Submit) >>
-endobj
-% 'Outline.5.1': class OutlineEntryObject 
 14 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
- 251.0236
+ 350.0236
  0 ]
  /Next 15 0 R
- /Parent 12 0 R
- /Prev 13 0 R
- /Title (Questions) >>
+ /Parent 13 0 R
+ /Title (What to Submit) >>
 endobj
-% 'Outline.5.2': class OutlineEntryObject 
+% 'Outline.5.1': class OutlineEntryObject 
 15 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
- 191.0236
+ 224.0236
  0 ]
- /Parent 12 0 R
+ /Next 16 0 R
+ /Parent 13 0 R
  /Prev 14 0 R
+ /Title (Questions) >>
+endobj
+% 'Outline.5.2': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 164.0236
+ 0 ]
+ /Parent 13 0 R
+ /Prev 15 0 R
  /Title (Submission) >>
 endobj
-% 'R16': class PDFPages 
-16 0 obj
+% 'R17': class PDFPages 
+17 0 obj
 % page tree
-<< /Count 1
- /Kids [ 8 0 R ]
+<< /Count 2
+ /Kids [ 8 0 R
+ 9 0 R ]
  /Type /Pages >>
 endobj
-% 'R17': class PDFStream 
-17 0 obj
+% 'R18': class PDFStream 
+18 0 obj
 % page stream
-<< /Length 8426 >>
+<< /Length 8645 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -243,36 +263,57 @@ q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 13.03937 0 Td (Updated On:) Tj T* -13.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (1/26/2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 26.36937 0 Td (Due Date:) Tj T* -26.36937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (1/31/2012) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1/31/2012) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 653.0236 cm
+1 0 0 1 62.69291 638.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assignment) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 635.0236 cm
+1 0 0 1 62.69291 620.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For this assignment, take a look at the linux command cheat sheet I started:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 614.0236 cm
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 602.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -288,28 +329,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 602.0236 cm
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 584.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The commands I want you to document are: ) Tj /F3 10 Tf (ifconfig) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (ip) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (route) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (netstat) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (iptables) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 542.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.201318 Tw 12 TL /F1 10 Tf 0 0 0 rg (For each of the network related commands, do some research on your favorite internet search engine.) Tj T* 0 Tw 1.585542 Tw (Look up ) Tj /F3 10 Tf (man ) Tj /F1 10 Tf (pages for each, and anything else you can find. Then, for each command, write up the) Tj T* 0 Tw (following:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 551.0236 cm
+1 0 0 1 62.69291 536.0236 cm
 Q
 q
-1 0 0 1 62.69291 551.0236 cm
+1 0 0 1 62.69291 536.0236 cm
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 524.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -330,14 +371,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 533.0236 cm
+1 0 0 1 62.69291 518.0236 cm
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 62.69291 458.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 33 cm
+1 0 0 1 6 45 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
@@ -346,17 +387,17 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm .083555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write some examples of some common uses of the command to show commonly used flags/options.) Tj T* 0 Tw .21436 Tw (Don't document ) Tj /F3 10 Tf (every ) Tj /F1 10 Tf (flag, just some common uses \(hint: some man pages do exactly this, but don't) Tj T* 0 Tw 1.18186 Tw (copy/paste\). Try to think of some situations you might actually need to use the command for, and) Tj T* 0 Tw (figure out an example of it.) Tj T* ET
+BT 1 0 0 1 0 50 Tm .083555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write some examples of some common uses of the command to show commonly used flags/options.) Tj T* 0 Tw .21436 Tw (Don't document ) Tj /F3 10 Tf (every ) Tj /F1 10 Tf (flag, just some common uses \(hint: some man pages do exactly this, but don't) Tj T* 0 Tw 1.18186 Tw (copy/paste\). Try to think of some situations you might actually need to use the command for, and) Tj T* 0 Tw 1.014692 Tw (figure out an example of it. Also, please include a very brief description of what the command line) Tj T* 0 Tw (example is supposed to do.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 479.0236 cm
+1 0 0 1 62.69291 452.0236 cm
 Q
 q
-1 0 0 1 62.69291 455.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -376,23 +417,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 455.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 Q
 q
-1 0 0 1 62.69291 425.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.203516 Tw (When documenting sources, if you use an actual man page \(i.e. use the man command on a linux) Tj T* 0 Tw (machine\), just put a bullet with the man page you looked at. For example:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 419.0236 cm
+1 0 0 1 62.69291 392.0236 cm
 Q
 q
-1 0 0 1 62.69291 419.0236 cm
+1 0 0 1 62.69291 392.0236 cm
 Q
 q
-1 0 0 1 62.69291 407.0236 cm
+1 0 0 1 62.69291 380.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -413,10 +454,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 401.0236 cm
+1 0 0 1 62.69291 374.0236 cm
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 362.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -437,22 +478,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 362.0236 cm
 Q
 q
-1 0 0 1 62.69291 359.0236 cm
+1 0 0 1 62.69291 332.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (What to Submit) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 62.69291 320.0236 cm
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 62.69291 320.0236 cm
 Q
 q
-1 0 0 1 62.69291 335.0236 cm
+1 0 0 1 62.69291 308.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -473,10 +514,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 329.0236 cm
+1 0 0 1 62.69291 302.0236 cm
 Q
 q
-1 0 0 1 62.69291 281.0236 cm
+1 0 0 1 62.69291 254.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -551,10 +592,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 248.0236 cm
 Q
 q
-1 0 0 1 62.69291 263.0236 cm
+1 0 0 1 62.69291 236.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -575,34 +616,43 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 263.0236 cm
+1 0 0 1 62.69291 236.0236 cm
 Q
 q
-1 0 0 1 62.69291 233.0236 cm
+1 0 0 1 62.69291 206.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Questions) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 203.0236 cm
+1 0 0 1 62.69291 176.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .471647 Tw 12 TL /F1 10 Tf 0 0 0 rg (Any questions, comments, or concerns about this assignment, please email me \() Tj 0 0 .501961 rg (dstanle@uakron.edu) Tj 0 0 0 rg (\) or) Tj T* 0 Tw (see me before or after class.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 173.0236 cm
+1 0 0 1 62.69291 146.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Submission) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 119.0236 cm
+1 0 0 1 62.69291 92.02362 cm
 q
 BT 1 0 0 1 0 38 Tm .574983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please submit your homework as a plain ASCII text file, preferably formatted in reStructuredText markup) Tj T* 0 Tw .537984 Tw (\(see syllabus for references to rst syntax\). Please ) Tj /F2 10 Tf (DO NOT ) Tj /F1 10 Tf (submit any microsoft word documents!! Plain) Tj T* 0 Tw .001567 Tw (ASCII text only \(UTF8 plain text is ok too\)! If you're stuck with windows, the old notepad program will work.) Tj T* 0 Tw (There are many others as well.) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+% 'R19': class PDFStream 
+19 0 obj
+% page stream
+<< /Length 249 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 101.0236 cm
+1 0 0 1 62.69291 753.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To submit, upload your plain text file to the dropbox on springboard labeled for this homework assignment.) Tj T* ET
@@ -611,20 +661,28 @@ Q
  
 endstream
 endobj
-% 'R18': class PDFPageLabels 
-18 0 obj
+% 'R20': class PDFPageLabels 
+20 0 obj
 % Document Root
 << /Nums [ 0
- 19 0 R ] >>
+ 21 0 R
+ 1
+ 22 0 R ] >>
 endobj
-% 'R19': class PDFPageLabel 
-19 0 obj
+% 'R21': class PDFPageLabel 
+21 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
+% 'R22': class PDFPageLabel 
+22 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
 xref
-0 20
+0 23
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -635,24 +693,27 @@ xref
 0000001299 00000 n
 0000001526 00000 n
 0000001841 00000 n
-0000001999 00000 n
-0000002290 00000 n
-0000002415 00000 n
-0000002614 00000 n
-0000002790 00000 n
-0000002976 00000 n
-0000003130 00000 n
-0000003237 00000 n
-0000011766 00000 n
-0000011859 00000 n
+0000002121 00000 n
+0000002280 00000 n
+0000002571 00000 n
+0000002696 00000 n
+0000002895 00000 n
+0000003071 00000 n
+0000003257 00000 n
+0000003411 00000 n
+0000003526 00000 n
+0000012270 00000 n
+0000012621 00000 n
+0000012727 00000 n
+0000012804 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\007\377\352\322\224\226\345\361\324$\256\2525\000]\347) (\007\377\352\322\224\226\345\361\324$\256\2525\000]\347)] 
+ [(sR\261:\340Z\327\326f\026O\002\211\024\263|) (sR\261:\340Z\327\326f\026O\002\211\024\263|)] 
 
- /Info 10 0 R
- /Root 9 0 R
- /Size 20 >>
+ /Info 11 0 R
+ /Root 10 0 R
+ /Size 23 >>
 startxref
-11906
+12851
 %%EOF
