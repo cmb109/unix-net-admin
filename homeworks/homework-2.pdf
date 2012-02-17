@@ -1,0 +1,496 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dstanle@uakron.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 222.3823
+ 719.7736
+ 314.8023
+ 731.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://raw.github.com/dougstanley/unix-net-admin/master/report_template.rst) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 131.6929
+ 482.7736
+ 523.5827
+ 494.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dstanle@uakron.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 424.691
+ 380.7736
+ 517.111
+ 392.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R9': class PDFCatalog 
+9 0 obj
+% Document Root
+<< /Outlines 11 0 R
+ /PageMode /UseNone
+ /Pages 16 0 R
+ /Type /Catalog >>
+endobj
+% 'R10': class PDFInfo 
+10 0 obj
+<< /Author (Doug Stanley <dstanle@uakron.edu>)
+ /CreationDate (D:20120216192715+05'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Homework 2) >>
+endobj
+% 'R11': class PDFOutlines 
+11 0 obj
+<< /Count 5
+ /First 12 0 R
+ /Last 12 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+12 0 obj
+<< /Count 3
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 674.0236
+ 0 ]
+ /First 13 0 R
+ /Last 15 0 R
+ /Parent 11 0 R
+ /Title (Assignment) >>
+endobj
+% 'Outline.5.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 545.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (What to Submit) >>
+endobj
+% 'Outline.5.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 416.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Questions) >>
+endobj
+% 'Outline.5.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Submission) >>
+endobj
+% 'R16': class PDFPages 
+16 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 8 0 R ]
+ /Type /Pages >>
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 5802 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 175.4849 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Homework 2) Tj T* -175.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Doug Stanley <) Tj 0 0 .501961 rg (dstanle@uakron.edu) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2/16/2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 26.36937 0 Td (Due Date:) Tj T* -26.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2/21/2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .702339 Tw (For this assignment, you will research alternative DNS servers and select one which you feel is the best) Tj T* 0 Tw .890514 Tw (alternative to BIND9. You will then write a brief summary of why you feel that out of all the alternatives,) Tj T* 0 Tw .553672 Tw (this one is the best. If you feel it's even better than BIND9, please explain that to. The only requirements) Tj T* 0 Tw (are that it's an authoritative DNS server, and it's not BIND.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.882209 Tw (As usual, please keep a detailed list of all relavent URL's to the sources you used when doing your) Tj T* 0 Tw 1.720651 Tw (research. Also, please use the template restructured text file, and update it accordingly \(i.e. DO NOT) Tj T* 0 Tw (forget to change key details like your name and email address\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (What to Submit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A plain text file marked up with reStructuredText, based on this template:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 0 5 Tm  T* ET
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://raw.github.com/dougstanley/unix-net-admin/master/report_template.rst) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+Q
+q
+1 0 0 1 62.69291 476.0236 cm
+Q
+q
+1 0 0 1 62.69291 458.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A section of the document where you describe your alternative of choice and why you chose it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 458.0236 cm
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A summary section, recapping your results.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 446.0236 cm
+Q
+q
+1 0 0 1 62.69291 428.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your document should have a reference section with every url/source that you used listed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 428.0236 cm
+Q
+q
+1 0 0 1 62.69291 398.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .471647 Tw 12 TL /F1 10 Tf 0 0 0 rg (Any questions, comments, or concerns about this assignment, please email me \() Tj 0 0 .501961 rg (dstanle@uakron.edu) Tj 0 0 0 rg (\) or) Tj T* 0 Tw (see me before or after class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .574983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please submit your homework as a plain ASCII text file, preferably formatted in reStructuredText markup) Tj T* 0 Tw .537984 Tw (\(see syllabus for references to rst syntax\). Please ) Tj /F2 10 Tf (DO NOT ) Tj /F1 10 Tf (submit any microsoft word documents!! Plain) Tj T* 0 Tw .001567 Tw (ASCII text only \(UTF8 plain text is ok too\)! If you're stuck with windows, the old notepad program will work.) Tj T* 0 Tw (There are many others as well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To submit, upload your plain text file to the dropbox on springboard labeled for this homework assignment.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000754 00000 n
+0000000997 00000 n
+0000001291 00000 n
+0000001518 00000 n
+0000001833 00000 n
+0000001970 00000 n
+0000002225 00000 n
+0000002350 00000 n
+0000002549 00000 n
+0000002725 00000 n
+0000002911 00000 n
+0000003065 00000 n
+0000003172 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\345[\004\3426?}\213\203J\213\021\334\\\341\021) (\345[\004\3426?}\213\203J\213\021\334\\\341\021)] 
+
+ /Info 10 0 R
+ /Root 9 0 R
+ /Size 18 >>
+startxref
+9046
+%%EOF
