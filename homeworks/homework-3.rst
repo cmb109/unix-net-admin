@@ -4,7 +4,7 @@ Homework 3
 
 :Author: Doug Stanley <dstanle@uakron.edu>
 :Date: 3/6/2012
-:Due Date: **3/13/2012**
+:Due Date: **3/20/2012**
 
 
 Assignment
