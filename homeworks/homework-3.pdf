@@ -1,0 +1,739 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dstanle@uakron.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 222.3823
+ 719.7736
+ 314.8023
+ 731.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://raw.github.com/dougstanley/unix-net-admin/master/howto_template.rst) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 128.6929
+ 401.7736
+ 532.5827
+ 413.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dstanle@uakron.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 424.691
+ 293.7736
+ 517.111
+ 305.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://rst.ninjs.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 122.7736
+ 532.5827
+ 134.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://moinmo.in/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 86.77362
+ 532.5827
+ 98.77362 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R ]
+ /Contents 21 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 20 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 22 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 20 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 23 0 R
+ /PageMode /UseNone
+ /Pages 20 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author (Doug Stanley <dstanle@uakron.edu>)
+ /CreationDate (D:20120306190335+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Homework 2) >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 6
+ /First 15 0 R
+ /Last 15 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Count 4
+ /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 674.0236
+ 0 ]
+ /First 16 0 R
+ /Last 19 0 R
+ /Parent 14 0 R
+ /Title (Assignment) >>
+endobj
+% 'Outline.6.0': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 473.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 15 0 R
+ /Title (What to Submit) >>
+endobj
+% 'Outline.6.1': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 329.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 15 0 R
+ /Prev 16 0 R
+ /Title (Questions) >>
+endobj
+% 'Outline.6.2': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 269.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 15 0 R
+ /Prev 17 0 R
+ /Title (Submission) >>
+endobj
+% 'Outline.6.3': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 167.0236
+ 0 ]
+ /Parent 15 0 R
+ /Prev 18 0 R
+ /Title (References) >>
+endobj
+% 'R20': class PDFPages 
+20 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 10 0 R
+ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R21': class PDFStream 
+21 0 obj
+% page stream
+<< /Length 7891 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4849 0 Td (Homework 2) Tj T* -175.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Doug Stanley <) Tj 0 0 .501961 rg (dstanle@uakron.edu) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3/6/2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 26.36937 0 Td (Due Date:) Tj T* -26.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (3/13/2012) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.042209 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this assignment, you will write a ) Tj /F3 10 Tf ("How To" ) Tj /F1 10 Tf (article describing how to to setup a MoinMoin wiki using) Tj T* 0 Tw .069988 Tw (Apache on a linux server. You can decide which linux distribution to base your howto on, but make sure to) Tj T* 0 Tw (state which distribution you're basing your how to on in the beginning of the document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.387988 Tw (There are a number of ways you can go about setting it up, and it doesn't really matter which on you) Tj T* 0 Tw 2.201235 Tw (choose, so long as it involves using apache. Also, please document setting up the latest version of) Tj T* 0 Tw (MoinMoin from source, and not any packaged version that may ship with the linux distribution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .307633 Tw (See the reference section for links to the various pieces of software you will need. Also, please document) Tj T* 0 Tw .907765 Tw (all changes to any configuration file, in as much detail as needed for some one to easily re-create what) Tj T* 0 Tw (you have done.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.882209 Tw (As usual, please keep a detailed list of all relavent URL's to the sources you used when doing your) Tj T* 0 Tw 1.720651 Tw (research. Also, please use the template restructured text file, and update it accordingly \(i.e. DO NOT) Tj T* 0 Tw (forget to change key details like your name and email address\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (What to Submit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A plain text file marked up with reStructuredText, based on this template:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://raw.github.com/dougstanley/unix-net-admin/master/howto_template.rst) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+Q
+q
+1 0 0 1 62.69291 389.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All appropriate sections of the template should be filled in with the details of the how to.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+Q
+q
+1 0 0 1 62.69291 359.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .451235 Tw (The how to should be detailed enough that even a beginner linux user could follow your instructions) Tj T* 0 Tw (and successfully install Moin Moin.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your document must have a reference section with every url/source that you used listed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .471647 Tw 12 TL /F1 10 Tf 0 0 0 rg (Any questions, comments, or concerns about this assignment, please email me \() Tj 0 0 .501961 rg (dstanle@uakron.edu) Tj 0 0 0 rg (\) or) Tj T* 0 Tw (see me before or after class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 251.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 197.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .574983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please submit your homework as a plain ASCII text file, preferably formatted in reStructuredText markup) Tj T* 0 Tw .537984 Tw (\(see syllabus for references to rst syntax\). Please ) Tj /F2 10 Tf (DO NOT ) Tj /F1 10 Tf (submit any microsoft word documents!! Plain) Tj T* 0 Tw .001567 Tw (ASCII text only \(UTF8 plain text is ok too\)! If you're stuck with windows, the old notepad program will work.) Tj T* 0 Tw (There are many others as well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 179.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To submit, upload your plain text file to the dropbox on springboard labeled for this homework assignment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.0236 cm
+Q
+q
+1 0 0 1 62.69291 137.0236 cm
+Q
+q
+1 0 0 1 62.69291 107.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://rst.ninjs.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An online restructured text editor/parser you can use.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+Q
+q
+1 0 0 1 62.69291 83.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://moinmo.in/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R22': class PDFStream 
+22 0 obj
+% page stream
+<< /Length 510 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 -1 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The home page of the moinmoin wiki project.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 753.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R23': class PDFPageLabels 
+23 0 obj
+% Document Root
+<< /Nums [ 0
+ 24 0 R
+ 1
+ 25 0 R ] >>
+endobj
+% 'R24': class PDFPageLabel 
+24 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R25': class PDFPageLabel 
+25 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000816 00000 n
+0000001009 00000 n
+0000001302 00000 n
+0000001543 00000 n
+0000001782 00000 n
+0000002003 00000 n
+0000002335 00000 n
+0000002616 00000 n
+0000002775 00000 n
+0000003066 00000 n
+0000003191 00000 n
+0000003391 00000 n
+0000003568 00000 n
+0000003755 00000 n
+0000003943 00000 n
+0000004098 00000 n
+0000004215 00000 n
+0000012205 00000 n
+0000012817 00000 n
+0000012923 00000 n
+0000013000 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\226|@\316\234\324\3628\357\011\017\233\224\262\276\025) (\226|@\316\234\324\3628\357\011\017\233\224\262\276\025)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 26 >>
+startxref
+13047
+%%EOF
