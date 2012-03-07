@@ -1,5 +1,5 @@
 ##########
-Homework 2
+Homework 3
 ##########
 
 :Author: Doug Stanley <dstanle@uakron.edu>
