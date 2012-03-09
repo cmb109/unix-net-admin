@@ -4,6 +4,7 @@ Homework 3
 
 :Author: Doug Stanley <dstanle@uakron.edu>
 :Date: 3/6/2012
+:Updated: 3/8/2012
 :Due Date: **3/20/2012**
 
 
@@ -11,13 +12,13 @@ Assignment
 ==========
 
 For this assignment, you will write a *"How To"* article describing how to to
-setup a MoinMoin wiki using Apache on a linux server. You can decide which
+setup a Dokuwiki wiki using Apache on a linux server. You can decide which
 linux distribution to base your howto on, but make sure to state which
 distribution you're basing your how to on in the beginning of the document.
 
 There are a number of ways you can go about setting it up, and it doesn't
 really matter which on you choose, so long as it involves using apache. Also,
-please document setting up the latest version of MoinMoin from source, and not
+please document setting up the latest version of Dokuwiki from source, and not
 any packaged version that may ship with the linux distribution.
 
 See the reference section for links to the various pieces of software you will
@@ -41,7 +42,7 @@ What to Submit
   of the how to.
 
 * The how to should be detailed enough that even a beginner linux user could
-  follow your instructions and successfully install Moin Moin.
+  follow your instructions and successfully install Dokuwiki.
 
 * Your document must have a reference section with every url/source that you
   used listed.
@@ -72,6 +73,6 @@ References
 
   * An online restructured text editor/parser you can use.
 
-* http://moinmo.in/
+* http://www.dokuwiki.org/dokuwiki
 
-  * The home page of the moinmoin wiki project.
+  * The home page of the Dokuwiki wiki project.
